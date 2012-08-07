@@ -16,4 +16,7 @@ tmtags
 ## PHPDoc files
 *.ini
 
+## Composer
 composer.phar
+composer.lock
+vendor/*

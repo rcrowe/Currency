@@ -1,0 +1,36 @@
+{
+    "name": "rcrowe/currency",
+    "description": "Currency converter",
+    "version": "0.0.1",
+    "homepage": "https://github.com/rcrowe/currency",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require": {
+        "rmccue/requests": "*"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/rcrowe/currency"
+        }
+    ],
+    "keywords": [
+        "currency",
+        "convert",
+        "money"
+    ],
+    "authors": [
+        {
+            "name": "Rob Crowe",
+            "email": "hello@vivalacrowe.com",
+            "homepage": "http://www.vivalacrowe.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Currency": "src/"
+        }
+    }
+}

@@ -15,3 +15,5 @@ tmtags
 
 ## PHPDoc files
 *.ini
+
+composer.phar

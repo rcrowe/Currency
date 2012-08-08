@@ -15,13 +15,11 @@
         "convert",
         "money"
     ],
-    "authors": [
-        {
-            "name": "Rob Crowe",
-            "email": "hello@vivalacrowe.com",
-            "homepage": "http://www.vivalacrowe.com"
-        }
-    ],
+    "authors": [{
+        "name": "Rob Crowe",
+        "email": "hello@vivalacrowe.com",
+        "homepage": "http://www.vivalacrowe.com"
+    }],
     "autoload": {
         "psr-0": {
             "Currency": "src/"
